@@ -30,7 +30,9 @@ const Footer = () => {
             <li>Ashish Sahoo</li>
             <li>ashishsahoo0013@gmail.com</li>
             <li>
-              <a href="https://github.com/AashishSahoo">Github</a>{" "}
+              <a href="https://github.com/AashishSahoo/Food-Order-App">
+                Github
+              </a>{" "}
             </li>
             <li>
               <a href="www.linkedin.com/in/ashishsahoo899">Linkedin</a>
